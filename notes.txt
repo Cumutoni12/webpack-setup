@@ -1,0 +1,16 @@
+webpack is a popularr module(file) bundler for javascript application 
+a module is any file
+all modules will be bundled in one file 
+below is project structure 
+at the root we have src,package.json,webpack.config.js
+inside the src 
+we have input files 
+they can be index.html,index.css,index.js
+we automaticaly create an output folder by running a command npm run webpack
+
+packages to install 
+*webpack for running webpack
+*webpack-cli(comand line) helping us to install  webpack packages 
+* webpack-dev-server: starting the server ( live server)
+* html-webpack-plugin
+*css-loader, style-loader
